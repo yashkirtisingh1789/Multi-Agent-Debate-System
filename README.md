@@ -11,6 +11,10 @@ An autonomous multi-agent debate framework built with **LangGraph**, **LangChain
 
 ---
 
+## 👨‍💻 Author
+- **Yash Kirti Singh**
+
+---
 ## 📑 Table of Contents
 
 - [Overview](#-overview)
