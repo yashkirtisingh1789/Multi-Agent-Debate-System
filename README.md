@@ -237,16 +237,6 @@ Verdict: PESSIMIST wins this debate on the basis of existential urgency and reso
 
 ---
 
-## 🧩 Extending the System
-
-Here are recommended avenues to expand the framework:
-
-- [ ] **Third-Party Tools**: Equip agents with search tools (e.g., Tavily API) for evidence-backed debates with real citations.
-- [ ] **Multi-Persona Panels**: Introduce an *Ethicist*, *Economist*, or *Technologist* to form a round-table debate panel.
-- [ ] **Human-in-the-Loop**: Integrate LangGraph's `MemorySaver` checkpointer and interrupt mechanisms to allow human audience voting or mid-debate questions.
-- [ ] **Web Interface**: Wrap the LangGraph stream in a **Streamlit**, **Gradio**, or **Next.js + FastAPI** frontend.
-
----
 
 ## 🤝 Contributing
 
